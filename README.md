@@ -5,9 +5,9 @@ Este repositório foi construído para hospedar o código de um banco digital, t
 
 ## Classes utilizadas
 
-[Cliente](https://github.com/Hellimateas/BancoDigitalGFT/blob/main/src/com/dio/cliente/Cliente.java)
+[Cliente](https://github.com/Hellimateas/BancoDigitalGFT/blob/main/src/com/dio/cliente/Cliente.java): Classe que tem como atributos `Nome` e `cpf` do cliente. Foi criado também o Construtor e os métodos Getter's e Setter's.
 
-[Conta](https://github.com/Hellimateas/BancoDigitalGFT/blob/main/src/com/dio/conta/Conta.java)
+[Conta](https://github.com/Hellimateas/BancoDigitalGFT/blob/main/src/com/dio/conta/Conta.java): Classe que tem como atributos `numero`, `agencia`, `saldo` e `Cliente`
 
 [Conta Corrente](https://github.com/Hellimateas/BancoDigitalGFT/blob/main/src/com/dio/conta/ContaCorrente.java)
 
