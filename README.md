@@ -16,3 +16,12 @@ Este repositório foi construído para hospedar o código de um banco digital, t
 No [pacote conta](https://github.com/Hellimateas/BancoDigitalGFT/tree/main/src/com/dio/conta) foi utilizado o conceito de herança para diminuir código e torná-lo de mais fácil compreensão.
 Tambem foi utilizado encapsulamento e o poliformismo. 
 
+## Autor
+
+Hellimateas B. Chaves
+Estudante de Análise e desenvolvimento de sistemas
+Atualmente, trabalhando como técnico de telecomunicações na empresa Brisanet Telecomunicações
+
+## Agradecimentos
+
+Digital Innovation One e GFT, por todas as aulas e a oportunidade de aprender mais sobre programação. 
