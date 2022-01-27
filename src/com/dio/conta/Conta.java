@@ -1,6 +1,6 @@
 package com.dio.conta;
 
-import com.dio.Cliente;
+import com.dio.cliente.Cliente;
 
 public class Conta {
 	private static final int AGENCIA_PADRAO = 1;
@@ -15,6 +15,8 @@ public class Conta {
 		this.agencia = Conta.AGENCIA_PADRAO;
 		this.numero = SEQUENCIAL++;
 		this.cliente = cliente;
+		this.saldo = 0;
+		
 	}
 
 	public int getNumero() {
@@ -44,6 +46,9 @@ public class Conta {
 	public void transferencia(Conta conta, double valor) {
 		this.saque(valor);
 		conta.deposito(valor);
+	}
+	public void imprimir() {
+		
 	}
 	
 	public void infoExtrato() {
