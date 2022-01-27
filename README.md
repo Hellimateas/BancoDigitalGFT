@@ -18,10 +18,10 @@ Tambem foi utilizado encapsulamento e o poliformismo.
 
 ## Autor
 
-Hellimateas B. Chaves
+[Hellimateas B. Chaves](https://www.linkedin.com/in/hellimateas/)
 Estudante de Análise e desenvolvimento de sistemas
-Atualmente, trabalhando como técnico de telecomunicações na empresa Brisanet Telecomunicações
+Atualmente, trabalhando como técnico de telecomunicações na empresa [Brisanet Telecomunicações](https://www.brisanet.com.br/)
 
 ## Agradecimentos
 
-Digital Innovation One e GFT, por todas as aulas e a oportunidade de aprender mais sobre programação. 
+[Digital Innovation One](https://web.dio.me/) e [GFT](https://www.gft.com/br/pt), por todas as aulas e a oportunidade de aprender mais sobre programação. 
